@@ -10,7 +10,7 @@ var BiayaJarak=function(jarak){
 
 //ini Merupakaan Function Biaya sesuai SOal Cerita
 var BiayaJarakSesuaiSoal=function(jarak){
-    var jarakPertama=1;
+    var jarakPertama=1.5;
     var kmpertama=5000;
     var jarakSelanjutnya=jarak-jarakPertama;
     var total=(jarakSelanjutnya*3000)+kmpertama;
