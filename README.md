@@ -1,7 +1,7 @@
 # fajrulaulia-Arkademy-B11K4
 Jawaban Test Bootcamp Arkademy Batch 11 Kloter 4
 
-Soal No 1 : Soal Nomor satu Harus Menggunakan Node JS yang berbasis Online, Kunjungi situsnya disini https://repl.it/languages/nodejs unutk menjalankan kode saya (soal1.js)
+Soal No 1 : JSON adalah Format dalam pertukaran data pada client dan server pada rest API, JSON sangat ringan daripada para Pendahulunya seperti XML, Kemudian Untuk Soal Nomor satu Harus Menggunakan Node JS yang berbasis Online, Kunjungi situsnya disini https://repl.it/languages/nodejs untukk menjalankan kode saya (soal1.js)
 
 Soal No 2 : Soal Nomor dua harus menggunakan PHP Intepreter Online, kunjungi situsnya disini https://repl.it/languages/php untuk menjalankan kode saya(soal2.php) return nya adalah seharusnya true dan false, tapi saya mereturn bool(Boolean)nya menggunakan vardump(Check Parameter di line 28-34)
 
