@@ -96,24 +96,25 @@ edit
 SUB Soal No 7C :
 Soal 7 C sudah include CRUD, dapat di check di folder soal7/7c
 Home
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/home.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/home.png)
 
 Proses Tambah
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/add.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/add.png)
 
 Setelah Tambah
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/afteradd.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/afteradd.png)
 
 Proses edit
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/edit.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/edit.png)
 
 Setelah edit
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/afteredit.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/afteredit.png)
 
 
 Proses hapus
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/hapus.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/hapus.png)
 
 Setelah hapus
-![alt text](s://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/afterhapus.png)
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7c/ss/afterhapus.png)
+
 ======================================================
