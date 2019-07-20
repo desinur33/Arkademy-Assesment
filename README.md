@@ -15,6 +15,66 @@ soal no 6 : pada soal Nomor 6, Saya berusaha mengeluarkan Output yang sesuai den
 
 
 SOAL NOMOR 7
+
+=======================================================================
+SOAL 7 A
+Soal 7 A
+Query:
+create database arka_db;
+use arka_db;
+
+CREATE TABLE category (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  salary int(11) DEFAULT NULL,
+  PRIMARY KEY (id)
+);
+
+CREATE TABLE nama (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  name varchar(25) DEFAULT NULL,
+  id_work int(11) DEFAULT NULL,
+  id_salary int(11) DEFAULT NULL,
+  PRIMARY KEY (id)
+);
+
+CREATE TABLE work (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  name varchar(25) DEFAULT NULL,
+  id_salary int(11) DEFAULT NULL,
+  PRIMARY KEY (id)
+);
+
+INSERT INTO category(salary) VALUES(10000000);
+INSERT INTO category(salary) VALUES(12000000);
+
+INSERT INTO nama(name, id_work, id_salary) VALUES('Rebecca', 1, 1);
+INSERT INTO nama(name, id_work, id_salary) VALUES('Vita', 2, 2);
+
+INSERT INTO work(name, id_salary) VALUES('FrontEnd Dev', 1);
+INSERT INTO work(name, id_salary) VALUES('BackEnd Dev', 2);
+
+
+select * from nama;
+select * from category;
+select * from work;
+
+
+select nama.name as name, work.name as work, category.salary from nama
+inner join work on nama.id_work=work.id
+inner join category on nama.id_salary=category.id;
+
+Hasil:
+category
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7a/ss/category.png)
+
+work
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7a/ss/work.png)
+
+nama
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7a/ss/nama.png)
+
+HASIL QUERY
+![alt text](https://raw.githubusercontent.com/fajrulaulia/fajrulaulia-Arkademy-B11K4/master/soal7/7a/ss/query.png)
 =======================================================================
 SUB Soal No 7B :
 
